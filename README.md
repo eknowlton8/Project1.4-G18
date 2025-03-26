@@ -8,3 +8,5 @@ This is a simple Trivia Bot for Discord that fetches trivia questions from the O
    ```bash
    git clone https://github.com/eknowlton8/Project1.4-G18.git
    cd Project1.4-G18
+   pip install -r requirements.txt
+   python bot.py
